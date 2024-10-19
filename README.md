@@ -1,2 +1,2 @@
 # web_template_httpd.html
-This will allow you to have a cool website after downloading  and copy the zip file to the correct location on the webserver
+This will allow you to have a fabulous website from Tooplate's template after downloading  and copying the zip file to the correct location on the web server; you will need to use Wget to download the zip file locally to your machine or on the cloud. Choose a location like /tmp, and after the download, unzip the file and copy all under the unzip directory to the appropriate location, and you will be happy 😊!!!
